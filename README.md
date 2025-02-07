@@ -1,5 +1,5 @@
 
-### Olá! meu nome é Vinicius Quintian ✌
+### Hello! My name is Vinicius Quintian ✌
 
 [![Blog](https://img.shields.io/website?label=Viniciusquintian.com&style=for-the-badge&url=https://vinicius-quintian.vercel.app/)](https://vinicius-quintian.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-quintian-1500b6257/)
@@ -7,7 +7,7 @@
 
 ![Viniciusmq25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusmq25&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-### Tecnologias usadas nesse perfil
+### Tech used in this profile
 
 <div style="display: inline-block; margin-bottom: 1rem">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-DA5B0B?style=for-the-badge&logo=html5&logoColor=white" />
