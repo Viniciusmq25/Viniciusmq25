@@ -38,15 +38,15 @@ galaxy_arms:
       - "Google Apps Script"
 
 projects:
+  - repo: "Viniciusmq25/MobiMap"
+    arm: 2
+    description: "TypeScript mapping app focused on mobile-first navigation and practical UX flows."
+  - repo: "Viniciusmq25/qtnn"
+    arm: 1
+    description: "High-performance wordlist generator with smart permutations for security testing workflows."
   - repo: "Viniciusmq25/Vimeo_Bulk_Download"
     arm: 0
     description: "Bulk download Vimeo libraries with folder mirroring and metadata export."
-  - repo: "Viniciusmq25/SpeedRead-Pro"
-    arm: 1
-    description: "High-performance RSVP speed-reading app focused on productivity and learning."
-  - repo: "Viniciusmq25/Email_to_Sheets_Uber99_Expenses"
-    arm: 2
-    description: "Automates expense extraction from Gmail receipts into Google Sheets."
 
 theme:
   void: "#080c14"
