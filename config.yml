@@ -1,0 +1,76 @@
+# Galaxy Profile README Configuration
+# Personalized for Vinicius Quintian
+
+username: Viniciusmq25
+
+profile:
+  name: "Vinicius Quintian"
+  tagline: "Automation Engineer | AI Agents for Processes & Integrations"
+  company: ""
+  location: "Porto Alegre, Brazil"
+  bio: |
+    Building automation systems and AI agents for process efficiency and integrations.
+    Focused on practical solutions that connect systems, reduce manual work, and scale operations.
+  philosophy: '"Automate what repeats. Elevate what matters."'
+
+social:
+  email: "viniciusquintian@gmail.com"
+  linkedin: "vinicius-quintian"
+
+galaxy_arms:
+  - name: "Automation"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "Scripting"
+      - "Workflow Design"
+  - name: "AI Agents"
+    color: "dendrite_violet"
+    items:
+      - "LLMs"
+      - "Prompt Engineering"
+      - "Agent Orchestration"
+  - name: "Integrations"
+    color: "axon_amber"
+    items:
+      - "APIs"
+      - "Webhooks"
+      - "Google Apps Script"
+
+projects:
+  - repo: "Viniciusmq25/Vimeo_Bulk_Download"
+    arm: 0
+    description: "Bulk download Vimeo libraries with folder mirroring and metadata export."
+  - repo: "Viniciusmq25/SpeedRead-Pro"
+    arm: 1
+    description: "High-performance RSVP speed-reading app focused on productivity and learning."
+  - repo: "Viniciusmq25/Email_to_Sheets_Uber99_Expenses"
+    arm: 2
+    description: "Automates expense extraction from Gmail receipts into Google Sheets."
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
