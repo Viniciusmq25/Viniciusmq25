@@ -5,12 +5,12 @@ username: Viniciusmq25
 
 profile:
   name: "Vinicius Quintian"
-  tagline: "Automation Engineer | AI Agents for Processes & Integrations"
+  tagline: "AI & Automation Engineer | Data Science & AI @ PUCRS → Uni Tübingen"
   company: ""
   location: "Porto Alegre, Brazil"
   bio: |
-    Building automation systems and AI agents for process efficiency and integrations.
-    Focused on practical solutions that connect systems, reduce manual work, and scale operations.
+    Building AI agents and automations that take repetitive work out of the way — and proving the impact with numbers.
+    Data Science & AI undergrad at PUCRS; exchange student in Informatik at the University of Tübingen (WiSe 2026/27).
   philosophy: '"Automate what repeats. Elevate what matters."'
 
 social:
@@ -18,35 +18,35 @@ social:
   linkedin: "vinicius-quintian"
 
 galaxy_arms:
-  - name: "Automation"
+  - name: "Machine Learning"
     color: "synapse_cyan"
     items:
-      - "Python"
-      - "Scripting"
-      - "Workflow Design"
+      - "PyTorch"
+      - "scikit-learn"
+      - "OpenCV"
   - name: "AI Agents"
     color: "dendrite_violet"
     items:
       - "LLMs"
-      - "Prompt Engineering"
+      - "RAG"
       - "Agent Orchestration"
-  - name: "Integrations"
+  - name: "Engineering"
     color: "axon_amber"
     items:
-      - "APIs"
-      - "Webhooks"
-      - "Google Apps Script"
+      - "Python · Node.js"
+      - "GCP · BigQuery"
+      - "APIs & Webhooks"
 
 projects:
-  - repo: "Viniciusmq25/MobiMap"
-    arm: 2
-    description: "TypeScript mapping app focused on mobile-first navigation and practical UX flows."
+  - repo: "Viniciusmq25/bone-fracture-cnn-preprocessing"
+    arm: 0
+    description: "CNN X-ray fracture classification in PyTorch — controlled study of classical preprocessing, 96.2% test accuracy."
   - repo: "Viniciusmq25/qtnn"
     arm: 1
     description: "High-performance wordlist generator with smart permutations for security testing workflows."
-  - repo: "Viniciusmq25/Vimeo_Bulk_Download"
-    arm: 0
-    description: "Bulk download Vimeo libraries with folder mirroring and metadata export."
+  - repo: "Viniciusmq25/MobiMap"
+    arm: 2
+    description: "TypeScript mapping app focused on mobile-first navigation and practical UX flows."
 
 theme:
   void: "#080c14"
